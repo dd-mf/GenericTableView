@@ -1,1 +1,0 @@
-../../../GenericTableView/DefaultTableViewCell.swift
